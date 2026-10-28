@@ -52,8 +52,8 @@ button {
 
 .Discount1{
     position: absolute;
-    top:7%;
-    left: 13.8%;
+    top:18px;
+    left: 294px;
     background-color: red;
     color: white;
     padding: 4px;
@@ -62,8 +62,8 @@ button {
 
 .Discount2{
     position: absolute;
-    top:7%;
-    left: 31.8%;
+    top:18px;
+    left: 677px;
     background-color: red;
     color: white;
     padding: 4px;
@@ -73,8 +73,8 @@ button {
 
 .Discount3{
     position: absolute;
-    top:7%;
-    left: 49.9%;
+    top:18px;
+    left: 1061px;
     background-color: red;
     color: white;
     padding: 4px;
@@ -84,8 +84,8 @@ button {
 
 .Discount4{
     position: absolute;
-    top:7%;
-    left: 67.8%;
+    top:18px;
+    right: 608px;
     background-color: red;
     color: white;
     padding: 4px;
@@ -95,8 +95,8 @@ button {
 
 .Discount5{
     position: absolute;
-    top:7%;
-    right: 10.5%;
+    top:18px;
+    right: 224px;
     background-color: red;
     color: white;
     padding: 4px;
